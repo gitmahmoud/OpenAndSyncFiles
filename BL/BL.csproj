@@ -51,7 +51,7 @@
     <Compile Include="SyncFile\SyncFiles.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Application\DAL.csproj">
+    <ProjectReference Include="..\DAL\DAL.csproj">
       <Project>{575f098a-f02c-490a-a046-3bdd8b19d2f9}</Project>
       <Name>DAL</Name>
     </ProjectReference>

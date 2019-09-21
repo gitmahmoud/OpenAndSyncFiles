@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemiClean.Tests", "ChemiCl
 		{E7E5F034-7899-490F-A88A-38B289DF9CFE} = {E7E5F034-7899-490F-A88A-38B289DF9CFE}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "Application\DAL.csproj", "{575F098A-F02C-490A-A046-3BDD8B19D2F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{575F098A-F02C-490A-A046-3BDD8B19D2F9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChemiCleanWinService", "ChemiCleanWinService\ChemiCleanWinService.csproj", "{B3C2CB2C-8A85-498E-9BC5-67D02BFCF337}"
 	ProjectSection(ProjectDependencies) = postProject
